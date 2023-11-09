@@ -1,13 +1,15 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Tellaz.visitor-badgee&color=green&style=flat-square" />
+
 - ### Olá, meu nome é Junior Possari 👋
 - 📫 Meu e-mail é: junior.possari@outlook.com;
 - 📚 Formado em Análise e Desenvolvimento de Sistemas pela FATEC - Araçatuba; 
 - 👜 Atualmente trabalho na empresa Pro4Tech como Full-Stack. Em projetos, utilizando ASP.Net Core no Back-End e React/JQuery no Front-End;
   
+<p align="left">
+  <a href="https://readme-typing-svg.herokuapp.com?color=0353B1&lines=Software+Developer;2%2B+years+of+coding+experience;Always+learninig+new+things)]></a>
+</p>
 
-<!---
-JuniorPossari/JuniorPossari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0353B1&lines=Software+Developer;2%2B+years+of+coding+experience;Always+learninig+new+things)](https://git.io/typing-svg)
 
 ### Ferramentas e Tecnologias:
 
