@@ -2,7 +2,7 @@
 - 📫 Meu e-mail é: junior.possari@outlook.com;
 - 📚 Formado em Análise e Desenvolvimento de Sistemas pela FATEC - Araçatuba; 
 - 👜 Atualmente trabalho na empresa Pro4Tech como Full-Stack. Em projetos, utilizando ASP.Net Core no Back-End e React/JQuery no Front-End;
- 
+  
 
 <!---
 JuniorPossari/JuniorPossari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
