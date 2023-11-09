@@ -6,7 +6,7 @@
 - 👜 Atualmente trabalho na empresa Pro4Tech como Full-Stack. Em projetos, utilizando ASP.Net Core no Back-End e React/JQuery no Front-End;
   
 <p align="left">
-  <a href="https://readme-typing-svg.herokuapp.com?color=0353B1&lines=Software+Developer;2%2B+years+of+coding+experience;Always+learninig+new+things)]></a>
+  <a href="https://readme-typing-svg.herokuapp.com?color=0353B1&lines=Software+Developer;3%2B+years+of+coding+experience;Always+learninig+new+things)]></a>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0353B1&lines=Software+Developer;2%2B+years+of+coding+experience;Always+learninig+new+things)](https://git.io/typing-svg)
